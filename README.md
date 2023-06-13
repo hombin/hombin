@@ -1,2 +1,2 @@
 
-<img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=hombin" />
+<img align="right" src="https://github-readme-activity-graph.cyclic.api/graph?username=hombin" />
