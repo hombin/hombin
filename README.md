@@ -1,2 +1,2 @@
 
-<img align="right" src="https://github-readme-activity-graph.cyclic.api/graph?username=hombin" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hombin)]
