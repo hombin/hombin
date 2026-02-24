@@ -1,41 +1,9 @@
 
 <!-- <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=hombin&theme=github-compact" /> -->
 <img src="https://streak-stats.demolab.com?user=hombin&theme=github-dark-blue" />
-
-<!-- 左侧简介 + 右侧动态图 -->
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  
-  <!-- 左侧简介 -->
-  <div>
-
-  ### 👋 Hi, I'm **Hombin Yang (Hombin)**  
-  🚀 *Developer | IT Consultant | Cloud & Backend Lover*  
-  - 专注后端与系统架构  
-  - DevOps / Automation / API 设计  
-  - 热爱工具链、效率提升与代码整洁之道  
-
-  **🌱 Currently exploring**  
-  - 高性能后端框架  
-  - 数据库调优  
-  - Cloud Native & Container Platforms  
-
-  **🛠 Tech Stack**
-  - Backend：Go / Python / Node.js  
-  - Cloud：Azure / AWS / Docker / K8s  
-  - Database：PostgreSQL / MySQL / Redis  
-
-  **📫 Contact**
-  - 📧 hombin@example.com  
-  - 🐙 GitHub: [@hombin](https://github.com/hombin)
-  
-  </div>
-
-  <!-- 右侧大图：动态贡献图 -->
-  <img 
+<img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=hombin&theme=github-compact&area=true&hide_border=true"
     width="55%" />
-
-</div>
 
 ---
 
